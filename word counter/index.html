@@ -22,11 +22,12 @@
     <label for="Textarea">Comments</label>
     <button type="button" onclick="functioncount()">count</button>
 
+    <p id="demo"></p>
 
   </div>
   <script>
       function functioncount() {
-       var x = document.getElementById("myTextarea").value;
+       var x = document.getElementById("Textarea").value;
        var xCount = x.length;
        alert("you have written"+xCount+"characters");
       }
