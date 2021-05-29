@@ -1,1 +1,1 @@
-word counter using simple javascript function
+word counter using  javascript function
