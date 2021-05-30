@@ -1,3 +1,3 @@
-# Js-projects
-These are basics things i learned while learning javascript.
+# mini web projects
+These are things that i learned while learning web devlopment.
 1. word counter 
