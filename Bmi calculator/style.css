@@ -1,6 +1,9 @@
 body{
 background-color: #98AFC7;
 }
+.h1{
+    text-align: center;
+}
 .height{
     float: left;
     width: 30%;
