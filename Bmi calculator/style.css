@@ -1,20 +1,29 @@
 body{
 background-color: #98AFC7;
 }
-.h1{
+h1{
     text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: oblique;
 }
 .height{
     float: left;
     width: 30%;
     margin-left: 300px;
+    margin-top: 200px;
+
 }
 .weight{
     float: right;
     width: 30%;
     margin-right: 300px;
+    margin-top: 200px;
     
 }
-.btn{
-    margin-bottom: 500px;
+#button{
+    margin-top: 300px;
+    margin-left: 25px;
+
 }
