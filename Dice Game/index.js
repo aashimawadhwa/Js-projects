@@ -1,0 +1,1 @@
+var randomnumber = Math.random();
