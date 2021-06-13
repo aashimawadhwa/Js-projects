@@ -1,1 +1,1 @@
-## this will count all the words you will wwrite in the textarea.
+## this will count all the words you will write in the textarea.
