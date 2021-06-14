@@ -26,7 +26,10 @@
                   tom4.play();
                   break;
 
-
+      case "j" :
+                     var snare = new Audio("sounds/snare.mp3");
+                     snare.play();
+                     break;
 
 
 
