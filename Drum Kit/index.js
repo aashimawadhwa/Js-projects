@@ -35,12 +35,14 @@
                         var crash = new Audio("sounds/crash.mp3");
                         crash.play();
                         break; 
-                        
+
       case "l" :
                            var kick = new Audio("sounds/kick-bass.mp3");
                            kick.play();
                            break;
-                           default : console.log(buttonInnerHTML);
+         
+         
+       default : console.log(buttonInnerHTML);
 
 
 
