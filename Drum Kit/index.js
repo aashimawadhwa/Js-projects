@@ -6,7 +6,7 @@
 
     var buttonInnerHTML =this.innerHTML;
     switch (buttonInnerHTML){
-       case "w" :
+      case "w" :
           var tom1 = new Audio("sounds/tom-1.mp3");
           tom1.play();
           break;
@@ -30,10 +30,12 @@
                      var snare = new Audio("sounds/snare.mp3");
                      snare.play();
                      break;
+
       case "k" :
                         var crash = new Audio("sounds/crash.mp3");
                         crash.play();
                         break; 
+                        
       case "l" :
                            var kick = new Audio("sounds/kick-bass.mp3");
                            kick.play();
