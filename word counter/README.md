@@ -1,1 +1,1 @@
-word counter using  javascript function
+## this will count all the words you will write in the textarea.
