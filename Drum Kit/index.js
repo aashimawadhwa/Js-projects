@@ -5,6 +5,24 @@
     document.querySelectorAll(".drum")[i].addEventListener("click" , function(){
 
     var buttonInnerHTML =this.innerHTML;
+
+    makeSound(buttonInnerHTML);
+    
+     });
+      }
+     //detecting key press
+     document.addEventListener("keypress" , function(event){
+
+      makeSound(event.key);
+
+     });
+    
+
+
+
+
+
+
     switch (buttonInnerHTML){
       case "w" :
           var tom1 = new Audio("sounds/tom-1.mp3");
