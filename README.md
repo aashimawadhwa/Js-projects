@@ -1,4 +1,4 @@
-# Mini Web projects
+# Mini Web Projects
 These are things that I learned while learning web devlopment.
 1. Word Counter 
 2. Love Calculator
