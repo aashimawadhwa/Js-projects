@@ -5,5 +5,6 @@ These are things that I learned while learning web devlopment.
 3. BMI Calculator
 4. Dice Game
 5. Drum Kit
+6. Calculator (using Express.js)
 
 
