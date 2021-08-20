@@ -1,7 +1,7 @@
 # Mini Web Projects
 
 
-#
+
 
 1. Word Counter 
 2. Love Calculator
